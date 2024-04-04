@@ -13,7 +13,7 @@ The spool center is also ventilated, and inside it you can put a bag of desiccan
 
 ## Pictures
 
-![CAD Overview](./pictures/CAD%20Overview.png)
+![CAD Overview](/Pictures/CAD%20Overview.png)
 
 ![CAD Base Plate](/Pictures/CAD%20Base%20Plate.png)
 
