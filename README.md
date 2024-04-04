@@ -53,3 +53,13 @@ It's made from a few components:
 ## Print Files
 
 [STLs](/STL/)
+
+## Print Settings
+
+Voron Standard print settings, 0.4mm or 0.5mm nozzle.
+
+0.2mm layer height.
+
+30-40% Infill
+
+Recommended Infill for the Top Surfaces on the Top Plate and Bottom plate is Concentric, it will help the ball bearings to ride smoothly in the track.
